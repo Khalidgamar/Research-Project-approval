@@ -1,5 +1,5 @@
 Research & Project approval (Part 1)
-By Michelle Lai
+By Khalid Gamar
 
 Weight: 1
 
@@ -7,11 +7,11 @@ Project to be done in teams of 3 people
 
 Ongoing project - started 
 
-May 27, 2022
+May 26, 2023
 
 , must end by 
 
-Jun 3, 2022
+Jun 1, 2023
 
  - you're done with 0% of tasks.
 
@@ -156,4 +156,4 @@ As an example, lets say you will develop an image compression algorithm, and dec
 
 Ready for a manual review
 
-Copyright © 2022 ALX, All rights reserved.
+Copyright © 2023 ALX, All rights reserved.
